@@ -38,10 +38,6 @@ The system features real-time seat availability, secure payment processing with 
 
 <img width="1919" height="927" alt="image" src="https://github.com/user-attachments/assets/39a7960f-1249-4db0-acf3-a7cbf870314c" />
 
-
-
-*[Screenshots will be added here showing the main interfaces: Home page, Movie browsing, Seat selection, Booking confirmation, Admin dashboard, etc.]*
-
 ## Hosted URL
 
 *https://devkriti-popcorn-frontend.vercel.app/*
